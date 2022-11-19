@@ -10,9 +10,7 @@
 *    Click or press Enter
 
 ## For more information
-
-* [Shalev Website](https://www.shalev.ml/)
-* [More theme](https://themes.vscode.one/theme/on99/EYKu8s1r/)
+* Checkout my personal page
 
 # Credit
 * Package consultant: Shalev Lau
