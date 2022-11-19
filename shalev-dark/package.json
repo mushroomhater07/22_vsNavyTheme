@@ -1,0 +1,21 @@
+{
+  "name": "shalev-dark",
+  "displayName": "shalev-dark",
+  "description": "dark skin",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shalev Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shalev Dark-color-theme.json"
+      }
+    ]
+  }
+}
