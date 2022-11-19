@@ -1,9 +1,7 @@
 # Shalev's Dark theme
 
 ## Screenshot
-<p style="float:right;">
-  <img src="https://raw.githubusercontent.com/mike-lischke/vscode-antlr4/master/misc/antlr-logo.png" alt="logo" width="64">
-</p>
+* I have to figure it out!!
 
 ## The most productive theme
 *    In VS Code, open the Color Theme picker with File > Preferences > Color Theme. (Code > Preferences > Color Theme on macOS).
@@ -19,5 +17,6 @@
 # Credit
 * Package consultant: Shalev Lau
 * Visual advisor: @ronlamllt
-Social credit -100
+* Social credit -100
+
 **Enjoy!**

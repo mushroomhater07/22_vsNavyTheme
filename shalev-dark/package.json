@@ -1,9 +1,9 @@
 {
   "name": "shalev-dark",
-  "displayName": "shalev-dark",
+  "displayName": "Shalev's Dark",
   "publisher": "shalev",
   "description": "dark skin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.73.0"
   },
