@@ -7,3 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.0.1]
+
+- credit to @ronlamllt for advice to the theme
+
+## [0.0.2]
+
+- better texting highlight
