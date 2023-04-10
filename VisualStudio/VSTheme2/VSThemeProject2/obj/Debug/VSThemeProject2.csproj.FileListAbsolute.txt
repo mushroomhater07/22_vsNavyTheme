@@ -1,0 +1,13 @@
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\bin\Debug\VSThemeProject2.dll
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\bin\Debug\VSThemeProject2.pdb
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\bin\Debug\VSThemeProject2.vsix
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\bin\Debug\extension.vsixmanifest
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\obj\Debug\VSThemeProject2.csproj.AssemblyReference.cache
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\obj\Debug\_EmptyResource.resources
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\obj\Debug\VSThemeProject2.csproj.GenerateResource.cache
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\obj\Debug\VSThemeProject2.csproj.CoreCompileInputs.cache
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\obj\Debug\VSThemeProject2.dll
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\obj\Debug\VSThemeProject2.pdb
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\obj\Debug\extension.vsixmanifest
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\obj\Debug\files.json
+C:\Users\Shalev\source\repos\VSThemeProject2\VSThemeProject2\obj\Debug\createTemplateManifests.cache

@@ -1,0 +1,13 @@
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\bin\Release\VSThemeProject1.dll
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\bin\Release\VSThemeProject1.pdb
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\bin\Release\VSThemeProject1.vsix
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\bin\Release\extension.vsixmanifest
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\obj\Release\VSThemeProject1.csproj.AssemblyReference.cache
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\obj\Release\_EmptyResource.resources
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\obj\Release\VSThemeProject1.csproj.GenerateResource.cache
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\obj\Release\VSThemeProject1.csproj.CoreCompileInputs.cache
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\obj\Release\VSThemeProject1.dll
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\obj\Release\VSThemeProject1.pdb
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\obj\Release\extension.vsixmanifest
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\obj\Release\files.json
+C:\Users\Shalev\source\repos\VSThemeProject1\VSThemeProject1\obj\Release\createTemplateManifests.cache

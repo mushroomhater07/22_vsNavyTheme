@@ -1,0 +1,13 @@
+C:\Users\Shalev\source\repos\shalev\shalev\bin\Release\shalev.vsix
+C:\Users\Shalev\source\repos\shalev\shalev\bin\Release\extension.vsixmanifest
+C:\Users\Shalev\source\repos\shalev\shalev\obj\Release\shalev.csproj.AssemblyReference.cache
+C:\Users\Shalev\source\repos\shalev\shalev\obj\Release\_EmptyResource.resources
+C:\Users\Shalev\source\repos\shalev\shalev\obj\Release\shalev.csproj.GenerateResource.cache
+C:\Users\Shalev\source\repos\shalev\shalev\obj\Release\shalev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shalev\source\repos\shalev\shalev\obj\Release\shalev.csproj.CoreCompileInputs.cache
+C:\Users\Shalev\source\repos\shalev\shalev\obj\Release\shalev.dll
+C:\Users\Shalev\source\repos\shalev\shalev\obj\Release\shalev.pdb
+C:\Users\Shalev\source\repos\shalev\shalev\obj\Release\extension.vsixmanifest
+C:\Users\Shalev\source\repos\shalev\shalev\obj\Release\files.json
+C:\Users\Shalev\source\repos\shalev\shalev\obj\Release\createTemplateManifests.cache
+C:\Users\Shalev\source\repos\shalev\shalev\bin\Release\shalev-blue.pkgdef

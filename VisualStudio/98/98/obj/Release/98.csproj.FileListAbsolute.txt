@@ -1,0 +1,13 @@
+C:\Users\Shalev\source\repos\98\98\bin\Release\windows-98.pkgdef
+C:\Users\Shalev\source\repos\98\98\bin\Release\98.vsix
+C:\Users\Shalev\source\repos\98\98\bin\Release\extension.vsixmanifest
+C:\Users\Shalev\source\repos\98\98\obj\Release\98.csproj.AssemblyReference.cache
+C:\Users\Shalev\source\repos\98\98\obj\Release\_EmptyResource.resources
+C:\Users\Shalev\source\repos\98\98\obj\Release\98.csproj.GenerateResource.cache
+C:\Users\Shalev\source\repos\98\98\obj\Release\98.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shalev\source\repos\98\98\obj\Release\98.csproj.CoreCompileInputs.cache
+C:\Users\Shalev\source\repos\98\98\obj\Release\98.dll
+C:\Users\Shalev\source\repos\98\98\obj\Release\98.pdb
+C:\Users\Shalev\source\repos\98\98\obj\Release\extension.vsixmanifest
+C:\Users\Shalev\source\repos\98\98\obj\Release\files.json
+C:\Users\Shalev\source\repos\98\98\obj\Release\createTemplateManifests.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0DXLBq6jTu7KV4F4/y2NSGi8821iZsGJnM/TOEWQPVdv0PYOfsoecOggxYr9EHalzMi76UkJgSoaR5Whhkyg5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shalev\\source\\repos\\VSThemeProject1\\VSThemeProject1\\VSThemeProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shalev\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}
